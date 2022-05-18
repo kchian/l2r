@@ -1,0 +1,10 @@
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.01
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.02
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.03
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.04
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.05
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.06
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.07
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.08
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.09
+python3 scripts/runner_sac.py --yaml configs/params-sac.yaml --model_delay 0.1
